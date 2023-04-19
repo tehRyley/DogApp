@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">APIApp</string>
+    <string name="app_name">Dog Images</string>
+    <string name="dog_imageDesc">Dog image</string>
+    <string name="new_dog">New Dog</string>
 </resources>
